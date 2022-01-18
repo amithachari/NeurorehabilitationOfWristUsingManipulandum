@@ -1,4 +1,4 @@
-# NeurorehabilitationOfWristUsingManipulandum
+# Neurorehabilitation Of Wrist Using Manipulandum
 
 This single degree of freedom manipulandum simulates the human movement by providing
 either  force  or  impedance  at  the  end  points.  Further,  with  the  implementation  of  machine
